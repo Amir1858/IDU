@@ -1,0 +1,84 @@
+.div1 {
+    width: 100%;
+    height: auto;
+    background-color: white;
+}
+.div3 {
+    height: 850px;
+    background-image: url(https://www.idu.uz/img/big-14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div4 {
+
+    height: auto;
+    bottom: auto;
+    width: 15%;
+}
+body {
+    margin: 0;
+}
+li {
+    list-style: none;
+}
+.l5 {
+    color: #7d7d7d;
+    padding: 36px 16px;
+}
+.u2 {
+    display: flex;
+    margin-left: auto;
+    margin-left: 350px;
+}
+.l7 {
+    text-decoration: none;
+}
+.l9 {
+    text-decoration: none;
+}
+.l9:hover {
+    text-decoration: underline;
+}
+li:hover ul {
+  display: block;
+}
+.hh {
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    margin-left: 60px;
+    font-size: 55px;
+}
+.hh1 {
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    margin-left: 60px;
+    font-size: 60px;
+    justify-content: center;
+}
+h1,h3{
+    font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0 0 0.9375rem
+}
+.b5 {
+   font-size: 30px;
+   background-color: #b30a1a;
+   border: none;
+   color: white;
+   padding: 0.9375rem;
+   text-decoration: none;
+}
+.div85 {
+    height: 45px;
+    background-color: #333;
+}
+.ab {
+    color: white;
+    font-size: 13px;   
+}
+.div99{
+    color: white;
+    text-decoration: none;
+}
+.div99:hover{
+    color: grey;
+}
